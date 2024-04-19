@@ -1,0 +1,35 @@
+{
+    "name": "Clas hfo lcasn",
+    "owner": "Dumperton Gobbler",
+    "creation": "17/04/2024",
+    "graphics": {
+        "ground": false,
+        "lights": true,
+        "fog": false,
+        "antialiasing": false,
+        "quality": "low-power"
+    },
+    "map": {
+        "grid": {
+            "x": 20,
+            "y": 20
+        },
+        "buildings": [
+            {
+                "id": 0,
+                "position": {
+                    "x": 5,
+                    "z": 5
+                },
+                "size": {
+                    "x": 2,
+                    "z": 3,
+                    "y": 3
+                }
+            }
+        ],
+        "panels": [
+            0
+        ]
+    }
+}
